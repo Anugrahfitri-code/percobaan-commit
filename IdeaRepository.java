@@ -9,8 +9,4 @@ public class IdeaRepository {
     public static void addIdea(Idea idea) {
         ideas.add(idea);
     }
-
-    public static List<Idea> getAllIdeas() {
-        return ideas;
-    }
 }
