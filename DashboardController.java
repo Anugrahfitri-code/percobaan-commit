@@ -100,8 +100,11 @@ public class DashboardController {
         alert.showAndWait();
     }
 
-    public BorderPane getView() {
+    public BorderPane getView() {add
         return view;
     }
     //sxjkbdyuedhbdhdwbhrcbrbc dw cef3unc djhsbr cdn bgfyrgfrygfrygfyrfyrfgyrfgry
+
+
+    ///masak nasii nhdh dbbbbdbdbddbdbdbdbdbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 } 
