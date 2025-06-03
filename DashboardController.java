@@ -102,5 +102,9 @@ public class DashboardController {
 
     public BorderPane getView() {
         return view;
+
     }
+
+    public BorderPane setView() {
+        this.borderPane = 0;
 } 
