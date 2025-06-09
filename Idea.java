@@ -14,6 +14,7 @@ public class Idea {
     }
 
     // ngfgfxxgfh
+    //percobaan 1
 
     public void addVote() {
         votes++;
