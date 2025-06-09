@@ -13,6 +13,8 @@ public class Idea {
         this.votes = 0;
     }
 
+    // ngfgfxxgfh
+
     public void addVote() {
         votes++;
     }
