@@ -52,6 +52,8 @@ class MahasiswaTransfer extends OverRiddingMahasiswa {
         System.out.println(nama + " mengerjakan tugas tambahan untuk adaptasi.");
     }
 
+    // haii
+
     public void infoTransfer() {
         System.out.println(nama + " berasal dari Perguruan Tinggi " + universitasAsal + ".");
     }
