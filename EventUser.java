@@ -1,5 +1,7 @@
 package model;
 
+// jhqkwdjkwq
+// hlao
 public abstract class EventUser {
     protected String username;
     protected String password;
@@ -16,7 +18,7 @@ public abstract class EventUser {
     public void setUsername(String username) {
         this.username = username;
     }
-
+    
     public String getPassword() {
         return password;
     }
