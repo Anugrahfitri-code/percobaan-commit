@@ -13,6 +13,10 @@ public class Idea {
         this.votes = 0;
     }
 
+    // ngfgfxxgfh
+    //percobaan 1
+    // komentar
+
     public void addVote() {
         votes++;
     }
